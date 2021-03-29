@@ -21,3 +21,6 @@ ipch/
 *.vsp
 *.vspx
 *.sap
+
+# more
+db.lock
