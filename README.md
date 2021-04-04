@@ -9,5 +9,5 @@ To install and use SFML, [follow this](https://www.sfml-dev.org/tutorials/2.5/st
 
 This tutorial shows you how to set up vs code with sfml. Code Blocks can also be used with sfml.
 
-## What is SFML
+## What is SFML?
 SFML is powerful and has many functions. You can check out this gfg article [here](https://www.geeksforgeeks.org/sfml-graphics-library-quick-tutorial/) for a summary (This is my first time using it)
